@@ -2,15 +2,12 @@
 Welcome to my Python analysis portfolio! This repository contains several projects showcasing my skills in data analysis,  and data visualization using Python.
 
 # Table of Contents
-Introduction
-Projects
-Project 1: Attack Wins You Matches Defence Wins You Titles ( A Football Analysis)
-Project 2: Do You Know Your Customer ( A Customer Analysis) 
-Setup Instructions
-Usage
-Contributing
-License
-Contact
+  Introduction
+  Projects
+  Project 1: Attack Wins You Matches Defence Wins You Titles ( A Football Analysis)
+  Project 2: Do You Know Your Customer ( A Customer Analysis) 
+  Setup Instructions
+  Contact
 
 # Introduction
 
@@ -18,11 +15,11 @@ In this repository, you will find a collection of data analysis projects I have 
 
 # Projects
 ## Project 1: Attack Wins You Matches Defence Wins You Titles ( A Football Analysis)
-Description: This project involves an in-depth analysis of the understand.com dataset. The goal was to uncover patterns and insights into the top four team of  European Football League from England, Italy, Germany, Spain, France and Russia.
+  Description: This project involves an in-depth analysis of the understand.com dataset. The goal was to uncover patterns and insights into the top four team of   European Football League from England, Italy, Germany, Spain, France and Russia.
 
-Data: The dataset includes information on football team of these leagues from the year 2014 to 2019.
-Methods: Data cleaning, exploratory data analysis (EDA), and visualization techniques were used.
-Key Findings: Some significant trends and correlations were identified, which are discussed in the report.
+  Data: The dataset includes information on football team of these leagues from the year 2014 to 2019.
+  Methods: Data cleaning, exploratory data analysis (EDA), and visualization techniques were used.
+  Key Findings: Some significant trends and correlations were identified, which are discussed in the report.
 Files:
 
 football_analysis.py: Python script for data analysis.
@@ -40,3 +37,5 @@ Files:
 customer_analysis.py: Python script for data analysis.
 customer_analysis.csv: The dataset used for analysis.
 customer_analysis.pdf: A detailed report of the findings.
+
+
